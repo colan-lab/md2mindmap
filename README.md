@@ -1,3 +1,7 @@
+[演示地址 | Live Demo](https://m2m.at32.space/)
+
+[中文文档 | Chinese README](./README_ZH.md)
+
 ## md2mindmap — Convert Markdown to Interactive Mind Maps
 
 md2mindmap is a lightweight web app that turns your Markdown documents into interactive, auto‑laid‑out mind maps. Drop in a `.md` file or paste Markdown text, and explore the structure visually with pan and zoom.
